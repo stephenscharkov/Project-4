@@ -16,18 +16,47 @@
 
 # Results:
   
-  In Figures 1.a to 1.d the magnitudes are shown on a map with their radii increasing with larger earthquakes. Their colors also change with the severity of the earthquakes. The color bar on the side of the graph gives the scale of the severity. 
+  In Figures 1 to 4 the Power Spectral Density are shown agains frequency. The (a) graphs show the Oregon Shelf Cabled Benthic Experiment Package(OSCBEP) and the (b) graphs show the Oregon Offshore Cabled Benthic Experiment Package(OOCBEP). Graphs 1 to 4 are the following infromation 1:Rainy, 2: Windy, 3: Stormy, and 4: Dead. In Figure 2 the hydrophone data is shown against time.
   In the following graphs the following assumptions were made: 
   
-    1. Data collected from the Ocean Bottom Seismometer is accurate
+    1. Data collected from the Hydrone is accurate
   
-  ![alt text](https://github.com/stephenscharkov/Project-3-Plate-Tectonics/blob/master/Magnitude%20of%20Juan%20de%20Fuca%20Plate.PNG)
+  ![alt text](https://github.com/stephenscharkov/Project-4/blob/master/Oregon%20Shelf%20Cabled%20Benthic%20Experiment%20Package%20Rainy.png)
   
-  Figure 1.a: Earthquakes magnitudes from 2010-2020 on the Juan de Fuca Plate
+  Figure 1.a: Location- OSCBEP, Status- Rainy, Time-  2019/01/20 16:09:49
   
-  ![alt text](https://github.com/stephenscharkov/Project-3-Plate-Tectonics/blob/master/Magnitude%20of%20Juan%20de%20Fuca%20Plate%20April%202015.PNG)
+  ![alt text](https://github.com/stephenscharkov/Project-4/blob/master/Oregon%20Offshore%20Cabled%20Benthic%20Experiment%20Package%20Rainy.png)
   
-  Figure 1.b: Earthquakes magnitudes of the Juan de Fuca Plate in April 2015
+  Figure 1.b: Location- OOCBEP, Status- Rainy, Time- 2019/02/17 11:29:14
+  
+  ![alt text](https://github.com/stephenscharkov/Project-4/blob/master/Oregon%20Shelf%20Cabled%20Benthic%20Experiment%20Package%20Windy.png)
+  
+  Figure 2.a: Location- OSCBEP, Status- Windy, Time- 2019/01/02 00:09:49
+  
+  ![alt text](https://github.com/stephenscharkov/Project-4/blob/master/Oregon%20Offshore%20Cabled%20Benthic%20Experiment%20Package%20Windy.png)
+  
+  Figure 2.b: Location- OOCBEP, Status- Windy, Time- 2019/01/01 16:29:14
+  
+  ![alt text](https://github.com/stephenscharkov/Project-4/blob/master/Oregon%20Shelf%20Cabled%20Benthic%20Experiment%20Package%20Stormy.png)
+  
+  Figure 3.a: Location- OSCBEP, Status- Stormy, Time- 2019/01/06 19:09:49
+  
+  ![alt text](https://github.com/stephenscharkov/Project-4/blob/master/Oregon%20Offshore%20Cabled%20Benthic%20Experiment%20Package%20Stormy.png)
+  
+  Figure 3.b: Location- OOCBEP, Status- Windy, Time- 2019/01/04 14:29:14
+  
+  ![alt text](https://github.com/stephenscharkov/Project-4/blob/master/Oregon%20Shelf%20Cabled%20Benthic%20Experiment%20Package%20Dead.png)
+  
+  Figure 4.a: Location- OSCBEP, Status- Dead, Time- 2019/01/22 03:09:49
+  
+  ![alt text](https://github.com/stephenscharkov/Project-4/blob/master/Oregon%20Offshore%20Cabled%20Benthic%20Experiment%20Package%20Dead.png)
+  
+  Figure 4.b: Location- OOCBEP, Status- Dead, Time- 2019/01/19 23:29:14
+  
+  
+  
+  
+  
   
   As seen in Figure 1.a most of the earthquakes that occur are at the plate boundaries, this is due to interactions between the different plates causing stored energy to be released in the form of vibration. The Juan de Fuca Plate is unique in that it has all types of tectonic boundaries (Convergent, Divergent, and Transform). For the Juan de Fuca Plate the range of magnitudes seen is from 2.5 to 6.8 with the average magnitude being 3.1650072744907956. 
   In Figure 1.b the Month of April is shown in 2015. The most densely packed location of earthquakes is located in the middle of the west side of the Juan de Fuca Plate. This location on the plate boundary is called the Axial Seamount which is a volcano that erupted in this month and was felt around the world. This can be seen in the ripples in the southern part of Juan de Fuca Plate. The largest value from this month however is in the top of the plate. 
