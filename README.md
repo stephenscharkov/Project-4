@@ -105,9 +105,5 @@
     https://ooinet.oceanobservatories.org/ 
     https://www.noaa.gov/ 
     https://earthquake.usgs.gov/earthquakes/map/
-    https://datalab.marine.rutgers.edu/explorations/geology/activity1.php
-    http://geoviews.org/
-    https://www.oregonlive.com/pacific-northwest-news/2015/04/a_volcano_may_be_erupting_off.html?fbclid=IwAR2peQzYorW7RngYXSsgJoxPQHl9Nx0T1_56l3yjti3C5Dcr-uU1wVt9iyY
-    https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GC006734fbclid=IwAR3VXKkXWMWhWc9156cWTwYxAPGx59EovYASzUTMYYPxh6yQii3XLGALqsM
-    https://www.cliffsnotes.com/study-guides/geology/earthquakes/earthquakes-and-plate-tectonics
-  
+    
+    
