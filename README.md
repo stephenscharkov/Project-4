@@ -2,9 +2,9 @@
 
 # Infomation location:
 
-  Code URL:
+  Code URL:https://github.com/stephenscharkov/Project-4/blob/master/code.ipynb
   
-  README URL: https:
+  README URL: https://github.com/stephenscharkov/Project-4/blob/master/README.md
   
 # Problem Statement:
 
